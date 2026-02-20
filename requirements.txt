@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+mistralai
+python-dotenv
+requests
+joblib
+pdfplumber
+plotly
+bcrypt
+lightgbm
+fastapi
+uvicorn
+python-multipart
